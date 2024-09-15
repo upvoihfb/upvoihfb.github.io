@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://upvoihfb.github.io/sitemap/sitemap.txt
